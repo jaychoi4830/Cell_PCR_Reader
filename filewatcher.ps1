@@ -6,7 +6,7 @@ $Watcher.Filter = ".txt"
 $Watcher.IncludeSubdirectories = $false
 $Watcher.EnableRaisingEvents = $true
 
-## Defining Paths to R and the script for data processing
+## Defining Paths to Rscript and the script for data processing
 $RPath = "C:\Program Files\R\R-4.1.3\bin\Rscript.exe"
 $RScript = "C:\PathtoRscript"
 $Destination = "C:\Destination\output"
