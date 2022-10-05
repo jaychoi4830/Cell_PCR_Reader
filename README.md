@@ -4,11 +4,11 @@ This is a project to provide automatic initial processing of output files from e
 
 The script will detect any new files that had been read by your machine to a specific folder, and pass through different graphical and statistical tests in R to provide a summary of your experiment that just ran.
 
-**Installation Dependencies:** * *
-- Powershell v1.0
-- Rscript > 3.0
-  - tidyverse
-  - ggplot2* *
+**Installation Dependencies:**
+- * *Powershell v1.0* *
+- * *Rscript > 3.0* *
+  - * *tidyverse* *
+  - * *ggplot2* *
   
 
 * *Oct 2022 - Update on Windows 10 - Powershell/R based processing complete* *
