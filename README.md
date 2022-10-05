@@ -8,10 +8,10 @@ The script will detect any new files that had been read by your machine to a spe
 
 ## Windows 10 Task Scheduler
 1) Open Windows Task Scheduler
-![Image1](../.images/Task_Scheduler1.PNG)
+![Image1](../images/Task_Scheduler1.PNG)
 2) Click **Create Task**
 3) Fill in General Options
-![Image2](../.images/Task_Scheduler2.PNG)
+<img src="https://github.com/jaychoi4830/Cell_PCR_Reader/main/images/Task_Scheduler2.PNG?raw=true" />
 4) Add trigger
 5) Add Action * *Start a program* * -> select Powershell.exe from C:\System32\.. -> and use argument
 ``-NoExit -nologo -NonInteractive -Executionpolicy bypass -File "C:\Pathto\Script.ps1"``
