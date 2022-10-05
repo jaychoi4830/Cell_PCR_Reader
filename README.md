@@ -8,12 +8,10 @@ The script will detect any new files that had been read by your machine to a spe
 
 ## Windows 10 Task Scheduler
 1) Open Windows Task Scheduler
-![Image1](https://raw.githubusercontent.com/jaychoi4830/Cell_PCR_Reader/tree/main/image/Task_Scheduler1.PNG)
+![Image1](https://raw.githubusercontent.com/jaychoi4830/Cell_PCR_Reader/main/image/Task_Scheduler1.PNG?token=GHSAT0AAAAAABXULXKEA43RG2JSBQSECN4CYZ5XFXA)
 2) Click **Create Task**
 3) Fill in General Options
-<p>
-<img src="https://github.com/jaychoi4830/Cell_PCR_Reader/tree/main/image/Task_Scheduler2.PNG" />
-  </p>
+![Image2](https://raw.githubusercontent.com/jaychoi4830/Cell_PCR_Reader/main/image/Task_Scheduler2.PNG?token=GHSAT0AAAAAABXULXKFU3ESZNF4MJSTTHY6YZ5XF7Q)
 
 4) Add trigger
 
