@@ -12,7 +12,7 @@ The script will detect any new files that had been read by your machine to a spe
 2) Click **Create Task**
 3) Fill in General Options
 <p>
-<img src="https://github.com/jaychoi4830/Cell_PCR_Reader/main/image/Task_Scheduler2.PNG" />
+<img src="https://github.com/jaychoi4830/Cell_PCR_Reader/tree/main/image/Task_Scheduler2.PNG" />
   </p>
 4) Add trigger
 5) Add Action * *Start a program* * -> select Powershell.exe from C:\System32\.. -> and use argument
