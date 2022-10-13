@@ -22,7 +22,7 @@ The script will detect any new files that had been read by your machine to a spe
 
 3) Fill in General Options
 
-![Image2](https://raw.githubusercontent.com/jaychoi4830/Cell_PCR_Reader/main/image/Task_Scheduler2.PNG?token=GHSAT0AAAAAABXULXKFU3ESZNF4MJSTTHY6YZ5XF7Q)
+![Image2](https://raw.githubusercontent.com/jaychoi4830/Cell_PCR_Reader/main/image/Task_Scheduler2.PNG?token=GHSAT0AAAAAABXULXKF3GXIFOCCXB6OG3MKY2ILKWQ)
 
 4) Add trigger
 
