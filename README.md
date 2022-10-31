@@ -9,6 +9,8 @@ The script will detect any new files that had been read by your machine to a spe
 - * *Rscript > 3.0* *
   - * *tidyverse* *
   - * *ggplot2* *
+  - * *readxl* *
+  - * *gridExtra* *
   
 
 * *Oct 2022 - Update on Windows 10 - Powershell/R based processing complete* *
