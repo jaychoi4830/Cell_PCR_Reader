@@ -13,7 +13,7 @@ The script will detect any new files that had been read by your machine to a spe
   - * *gridExtra* *
   
 
-* *Oct 2022 - Update on Windows 10 - Powershell/R based processing complete* *
+* *Oct 2022 - Update on Windows 10 - Powershell/R based processing complete for qPCR* *
 
 ## Windows 10 Task Scheduler
 1) Open Windows Task Scheduler
